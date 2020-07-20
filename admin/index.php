@@ -1,11 +1,7 @@
 <html>
 	<head>
 		<?php include "parser.php"; ?>
-		<link rel="stylesheet" type="text/css" href="../css/theme.css">
-		<link rel="stylesheet" type="text/css" href="../css/responsive.css">
-		<link rel="stylesheet" type="text/css" href="../css/preset.css">
 		<link rel="stylesheet" type="text/css" href="../css/form.css">
-		<link rel="stylesheet" type="text/css" href="../css/presets/color1.css">
 		<title>Admin Page</title>
 	</head>
 	<body>
