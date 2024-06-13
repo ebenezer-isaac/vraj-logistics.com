@@ -327,4 +327,8 @@
 	<script src="js/plugins.min.js"></script>
 	<script src="js/functions.js"></script>
 </body>
+<?php
+$page = "VRajLogistics";
+include "logger.php"; 
+?>
 </html>
