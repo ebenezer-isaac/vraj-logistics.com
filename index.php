@@ -218,7 +218,7 @@
 				<div class="row">
 					<div class="col-xl-12 noPadding">
 						<div class="gmap">
-							<iframe id="gmap_canvas" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJr51N8GzPXzkR18yso5LIkUs&key=AIzaSyALdABFwL2JcF9Jb4WlXwakvD2UFQ47eGg" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6496058555053!2d73.25111617480448!3d22.32908774185228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395fcf6cf04d9daf%3A0x4b91c892a3acccd7!2sV-Raj%20Logistics!5e0!3m2!1sen!2sin!4v1718297102325!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 						</div>
 					</div>
 				</div>
@@ -308,7 +308,7 @@
 						<script>
 							var d = new Date();
 							var curr_year = d.getFullYear();
-							document.getElementById("copyrightsTag").innerHTML = "Copyright By &COPY; <?php echo $data["title"]; ?> - "+curr_year+"<br><div class='copyright-links'><a href='https://ebenezer-isaac.com'>Website Designed and Maintained by Ebenezer Isaac</a>";
+							document.getElementById("copyrightsTag").innerHTML = "Copyright By &COPY; <?php echo $data["title"]; ?> - "+curr_year+"<br><div class='copyright-links'><a href='https://mycrolinks.com'>Website Designed and Maintained by MycroLinks</a>";
 						</script>
 						<div class="col-md-6 text-center text-md-right">
 							<div class="clear"></div>
