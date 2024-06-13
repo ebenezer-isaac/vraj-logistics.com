@@ -18,9 +18,9 @@
 	<meta name="google-site-verification" content="MUI4GEpXPWqN3alZWDZk5JT7bYk7Jwstw1Njr5UbLAQ">
 	<meta property="og:title" content="<?php echo $data["title"]; ?>">
     <meta property="og:site_name" content="Click To Know More">
-    <meta property="og:url" content="https://vrajlogistics.in">
+    <meta property="og:url" content="https://demo.mycrolinks.com/vrajlogistics.in">
     <meta property="og:description" content="Fleet Owners and Transport Contractors">
-    <meta property="og:image" content="https://ebenezerv99.github.io/img/profile.jpg">
+    <meta property="og:image" content="https://demo.mycrolinks.com/vrajlogistics.in/images/logo.png">
     <meta property="og:image:width" content="500">
     <meta property="og:image:height" content="500">
     <meta property="og:type" content="website">
