@@ -329,6 +329,6 @@
 </body>
 <?php
 $page = "VRajLogistics";
-include "logger.php"; 
+include "../web-traffic-analysis/logger.php"; 
 ?>
 </html>
